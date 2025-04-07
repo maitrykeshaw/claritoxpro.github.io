@@ -1,1 +1,1 @@
-# claritoxpro.github.io
+# https://claritox-pro.vercel.app

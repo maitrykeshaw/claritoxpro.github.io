@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://buy-cardio-shield.vercel.app/sitemap.xml
+Sitemap: https://claritox-pro.vercel.app/sitemap.xml
