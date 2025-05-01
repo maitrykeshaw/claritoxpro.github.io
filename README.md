@@ -1,1 +1,1 @@
-# https://claritox-pro.vercel.app
+# https://claritox-pro.vercel.app/
